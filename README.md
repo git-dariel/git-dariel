@@ -38,4 +38,5 @@ Passionate Web Developer with a focus on React and Express development, dedicate
 
 <div align="center">
   
-![Gmail](https://skillicons.dev/icons?i=gmail) dariel.v.avila@gmail.com &nbsp;
+![Gmail](https://skillicons.dev/icons?i=gmail) <br>
+ dariel.v.avila@gmail.com &nbsp;
