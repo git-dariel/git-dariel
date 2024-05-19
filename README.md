@@ -4,7 +4,7 @@ Welcome to my digital playground! 🚀
 
 Passionate Web Developer with a focus on React and Express development, dedicated to crafting elegant and user-friendly web applications.
 
-- 🔭 I’m currently working on Management project - Project Management
+- 🔭 I’m currently working on Trifecta Solutions.
 - 🌱 I’m passionate about tech stuff, music.
 - ⌨️ I'm constantly improving my coding skills.
 - 🎯 Goal: Work in IT and build web and mobile applications.
