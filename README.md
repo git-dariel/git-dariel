@@ -21,6 +21,7 @@ Passionate Web Developer with a focus on React and Express development, dedicate
 ![css](https://skillicons.dev/icons?i=css) &nbsp;
 ![react](https://skillicons.dev/icons?i=react) &nbsp;
 ![js](https://skillicons.dev/icons?i=js) &nbsp;
+![ts](https://skillicons.dev/icons?i=ts) &nbsp;
 ![tailwind](https://skillicons.dev/icons?i=tailwind) &nbsp;
 ![mongodb](https://skillicons.dev/icons?i=mongodb) &nbsp;
 ![firebase](https://skillicons.dev/icons?i=firebase) &nbsp;
