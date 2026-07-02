@@ -4,7 +4,7 @@ Welcome to my digital playground! 🚀
 
 Passionate Web Developer with a focus on React and Express development, dedicated to crafting elegant and user-friendly web applications.
 
-- 🔭 I’m currently working on [Filipino Trusted Care Company](https://health-tech-clinic.ftcc.com.ph/).
+- 🔭 I’m currently working on [Filipino Trusted Care Company](https://www.ftcc.com.ph/).
 - 🌱 I’m passionate about tech stuff, music.
 - ⌨️ I'm constantly improving my coding skills.
 - 🎯 Goal: Work in IT and build web and mobile applications.
