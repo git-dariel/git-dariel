@@ -4,8 +4,6 @@
 
 </div>
 
-<h2 align="center">About Me</h2>
-
 I’m a Software Engineer experienced in developing production web applications with React, Next.js, Node.js, Express, cloud platforms, and containerized environments.
 
 - 💼 **What I do:** Build maintainable, responsive, and user-focused web applications.
