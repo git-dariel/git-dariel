@@ -1,18 +1,24 @@
-### 👋 Hey there, I'm Dariel!
-
-Welcome to my digital playground! 🚀
-
-Software Engineer experienced in building production web applications with React, Next.js, Node.js, Express, cloud platforms, and containerized deployments.
-
-- 🌱 I’m passionate about tech stuff, music.
-- ⌨️ I'm constantly improving my coding skills.
-- 🎯 Goal: Grow my career as a Software Engineer at a large corporate company and contribute to impactful, large-scale applications.
-- 💬 Ask me about anything tech-related, I'm always ready to engage in geeky conversations!
-- ⚡ Fact: I may take a bit longer to learn new things, but I make up for it with dedication and perseverance.  I never give up on a challenge, and with consistent effort, I can achieve anything I set my mind to.
-- 🪴 My hobbies: Watching Anime, Basketball, Self-improvement.
-
 <div align="center">
 
+<h1>Dariel Avila</h1>
+
+<h3>Software Engineer</h3>
+
+<p>Building reliable, scalable, and user-focused web applications.</p>
+
+</div>
+
+## About Me
+
+I’m a Software Engineer experienced in developing production web applications with React, Next.js, Node.js, Express, cloud platforms, and containerized environments.
+
+- 💼 **What I do:** Build maintainable, responsive, and user-focused web applications.
+- 🌱 **Current focus:** Strengthening my expertise in full-stack development, cloud infrastructure, and DevOps.
+- 🎯 **Career goal:** Grow within a large corporate organization and contribute to impactful, large-scale software products.
+- 🤝 **Let’s connect:** I’m always open to discussing technology, software engineering, and new opportunities.
+- 🪴 **Beyond code:** I enjoy music, anime, basketball, and continuous self-improvement.
+
+<div align="center">
 
 ## Featured Projects
 
@@ -92,7 +98,7 @@ Software Engineer experienced in building production web applications with React
 
 ## 📫 Connect with Me
 
-<div align="center">
-  
 ![Gmail](https://skillicons.dev/icons?i=gmail) <br>
  dariel.v.avila@gmail.com &nbsp;
+
+</div>
