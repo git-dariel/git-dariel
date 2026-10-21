@@ -16,34 +16,45 @@ Software Engineer experienced in building production web applications with React
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://uat.gforceofficial.com/">
-        <img src="assets/projects/gforce.webp" alt="GForce website" width="100%">
-      </a>
-      <h3><a href="https://uat.gforceofficial.com/">GForce</a></h3>
-      <p>Professional dance classes for all ages and skill levels, with experienced choreographers across hip-hop, K-pop, heels, and more.</p>
-      <p><strong>Next.js · Tailwind CSS · Node.js · Google Cloud Platform · Docker · Prisma · MongoDB · Xendit</strong></p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.sureone.ph/">
-        <img src="assets/projects/sureone.webp" alt="SureOne website" width="100%">
-      </a>
-      <h3><a href="https://www.sureone.ph/">SureOne</a></h3>
-      <p>A digital insurance platform for comparing motorcycle and car coverage, calculating premiums, and getting quotes in one place.</p>
-      <p><strong>React.js · Tailwind CSS · Node.js · Express.js · MongoDB · Docker · Xendit</strong></p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://grid.com.ph/">
-        <img src="assets/projects/grid.webp" alt="Grid Property Ventures website" width="100%">
-      </a>
-      <h3><a href="https://grid.com.ph/">Grid Property Ventures</a></h3>
-      <p>Property discovery and investment tools with structured listings, market insights, and price comparisons for Philippine real estate.</p>
-      <p><strong>React.js · Tailwind CSS · Node.js · Express.js · MongoDB · Fastek</strong></p>
-    </td>
-  </tr>
-</table>
+<h3>GForce</h3>
+
+<a href="https://uat.gforceofficial.com/">
+  <img src="assets/projects/gforce.webp" alt="GForce website" width="680">
+</a>
+
+<p>Professional dance classes for all ages and skill levels, with experienced choreographers across hip-hop, K-pop, heels, and more.</p>
+
+<p><code>Next.js</code> <code>Tailwind CSS</code> <code>Node.js</code> <code>Google Cloud Platform</code> <code>Docker</code> <code>Prisma</code> <code>MongoDB</code> <code>Xendit</code></p>
+
+<p><strong><a href="https://uat.gforceofficial.com/">View Live Site →</a></strong></p>
+
+<hr>
+
+<h3>SureOne</h3>
+
+<a href="https://www.sureone.ph/">
+  <img src="assets/projects/sureone.webp" alt="SureOne website" width="680">
+</a>
+
+<p>A digital insurance platform for comparing motorcycle and car coverage, calculating premiums, and getting quotes in one place.</p>
+
+<p><code>React.js</code> <code>Tailwind CSS</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>Docker</code> <code>Xendit</code></p>
+
+<p><strong><a href="https://www.sureone.ph/">View Live Site →</a></strong></p>
+
+<hr>
+
+<h3>Grid Property Ventures</h3>
+
+<a href="https://grid.com.ph/">
+  <img src="assets/projects/grid.webp" alt="Grid Property Ventures website" width="680">
+</a>
+
+<p>Property discovery and investment tools with structured listings, market insights, and price comparisons for Philippine real estate.</p>
+
+<p><code>React.js</code> <code>Tailwind CSS</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>Fastek</code></p>
+
+<p><strong><a href="https://grid.com.ph/">View Live Site →</a></strong></p>
 
 
 ##  💻 My Tech Stack:
