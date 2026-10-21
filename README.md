@@ -1,14 +1,10 @@
 <div align="center">
 
-<h1>Dariel Avila</h1>
-
-<h3>Software Engineer</h3>
-
-<p>Building reliable, scalable, and user-focused web applications.</p>
+<h1>Hi! My name is Dar 👋</h1>
 
 </div>
 
-## About Me
+<h2 align="center">About Me</h2>
 
 I’m a Software Engineer experienced in developing production web applications with React, Next.js, Node.js, Express, cloud platforms, and containerized environments.
 
